@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/fastgh/switch-hosts/program"
-	"github.com/zserge/webview"
+	"github.com/webview/webview"
 )
 
 const (

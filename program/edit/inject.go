@@ -13,7 +13,7 @@ import (
 	"github.com/atotto/clipboard"
 	"github.com/fastgh/switch-hosts/program"
 	"github.com/skratchdot/open-golang/open"
-	"github.com/zserge/webview"
+	"github.com/webview/webview"
 )
 
 // InjectJs 此文件为注入js的对象，可以互操作
