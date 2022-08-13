@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/shiguanghuxian/switch-hosts/program"
+	"github.com/fastgh/switch-hosts/program"
 	"github.com/skratchdot/open-golang/open"
 )
 

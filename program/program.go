@@ -8,10 +8,10 @@ import (
 	"runtime"
 	"strings"
 
+	"github.com/fastgh/switch-hosts/program/icon"
 	"github.com/fsnotify/fsnotify"
 	notify "github.com/getlantern/notifier"
 	"github.com/getlantern/systray"
-	"github.com/shiguanghuxian/switch-hosts/program/icon"
 	"github.com/skratchdot/open-golang/open"
 )
 

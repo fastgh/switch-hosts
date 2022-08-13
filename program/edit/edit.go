@@ -5,7 +5,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/shiguanghuxian/switch-hosts/program"
+	"github.com/fastgh/switch-hosts/program"
 	"github.com/zserge/webview"
 )
 
